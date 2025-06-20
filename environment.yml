@@ -1,0 +1,7 @@
+name: nb2galaxy-example
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+
