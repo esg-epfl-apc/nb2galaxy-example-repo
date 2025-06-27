@@ -1,4 +1,5 @@
 tooldir
+.plot.png
 .venv
 .pytest_cache
 .ipynb_checkpoints
